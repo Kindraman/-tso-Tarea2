@@ -11,7 +11,7 @@ señal y se queda iterando infinitamente mediante un for
 En tanto el proceso padre, una vez que terminan sus 
 procesos hijos, es el encargado de mostrar la fecha y la hora actual y este tiene funciones y declaraciones como:
 
--wait(NULL): La cual se refiere a que tiene que esperar a que se terminen los procesos hijos para que el termine.
+-wait(NULL):  Se refiere a que tiene que esperar a que se terminen los procesos hijos para que el termine.
 
 -time_t tipo de dato capaz de representar tiempo retornado
 por la funcion time().
